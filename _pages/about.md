@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Under Construction
 
-This personal academic site is currently under construction.  
-Check back soon for updates on my research, publications, and more.
+Hi, I am currently an assistant professor at the [Department of Business Administration](https://www.business.uzh.ch/en.html) of the University of Zurich.
+
+My focus is on personnel economics, vocational training and lifelong learning.
+I belong to the Swiss leading house [Research Center on the Economics of Education, Firm Behavior and Training Policies](https://www.educationeconomics.uzh.ch/en.html).
