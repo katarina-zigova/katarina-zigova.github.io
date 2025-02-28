@@ -27,7 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""# "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "Universität Zürich"
+  employer         :
+    name             : "Universität Zürich"
+    url              : "https://www.uzh.ch"
   uri              : # URL
   email            : "katarina.zigova@business.uzh.ch"
   cv               : "files/kz-cv.pdf"
