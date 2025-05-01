@@ -11,10 +11,13 @@ I work empirically employing survey or observational data applying methods of ca
 
 ## Journal articles (selection):
 
-Leschnig L., G. Schwerdt, K. Zigova (2022) Central School Exams and Adult Skills: Evidence from PIAAC, _Economics of Education Review_, 90(102289), 
+Doucouliagos C., K. Zigova (2025) Minimum Wages and Human Capital Investment: A Meta-Regression Analysis, _British Journal of Industrial Relations_.
+[link<span>&#129133;</span>](http://doi.org/10.1111/bjir.12881)
+
+Leschnig L., G. Schwerdt, K. Zigova (2022) Central School Exams and Adult Skills: Evidence from PIAAC, _Economics of Education Review_, 90(102289).
 [link<span>&#129133;</span>](https://doi.org/10.1016/j.econedurev.2022.102289)
 
-Doucouliagos C., T. Hinz, K. Zigova (2022) Bias and Careers: Evidence from the Aid Effectiveness Literature, _European Journal of Political Economy_, 71(102056), 
+Doucouliagos C., T. Hinz, K. Zigova (2022) Bias and Careers: Evidence from the Aid Effectiveness Literature, _European Journal of Political Economy_, 71(102056). 
 [link<span>&#129133;</span>](https://doi.org/10.1016/j.ejpoleco.2021.102056)
 
 Burridge P., J. P. Elhorst, K. Zigova (2016) Group Interaction in Research and the Use of General Nesting Spatial Models. _Advances in Econometrics_, Volume 37: Spatial Econometrics: Qualitative and Limited Dependent Variables, pp. 223-258.
@@ -33,23 +36,16 @@ Luken R., F. Van Rompaey, K. Zigova, (2008) The Determinants of EST Adoption by 
 
 ## Working papers/Work in progress:
 
-_Minimum Wages and Human Capital Investment: A Meta-Regression Analysis_  
-(with H. Doucouliagos)  
-[Working Paper No. 0219](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0219_lhwpaper.pdf), University of Zurich, Department of Business Administration  
-R&R at British Journal of Industrial Relations
-
 _The Delayed Acceptance of Female Research in Economics_  
 (with S. Bruns, A. Doucouliagos, H. Doucouliagos, J. König, T. Stanley)  
 [IZA Discussion Paper No. 17649](https://docs.iza.org/dp17649.pdf)  
-under review
+R&R at European Economic Review
 
 _Diversity Matters: Bias and Diversity in Industrial Relations Research_  
 (with A. Doucouliagos, H. Doucouliagos, T. Stanley)  
-under review
 
 _Replications and Research Data: Evidence among Economic Journals_  
 (with T. Hinz)  
-under review
 
 _Minimum Wages and the Structure of Training_  
 (with T. Zwick)
