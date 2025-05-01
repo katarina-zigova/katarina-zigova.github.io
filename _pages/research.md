@@ -50,7 +50,7 @@ _Replications and Research Data: Evidence among Economic Journals_
 _Minimum Wages and the Structure of Training_  
 (with T. Zwick)
 
-_Vocational Education and Skill Mismatch: A Cross-European Perspective_  
+_Vocational Education and Underskilling: Lessons from European Skills Surveys_  
 (with C. Neuber-Pohl, G. Russo, G. Santangelo)
 
 _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Death Effects_  
