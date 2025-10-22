@@ -45,14 +45,14 @@ _Diversity Matters: Bias and Diversity in Industrial Relations Research_
 R&R at British Journal of Industrial Relations
 
 _Minimum Wages and the Structure of Training_  
-(with T. Zwick)
+(with T. Zwick)  
 [Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf) 
 
 _Replications and Research Data: Evidence among Economic Journals_  
 (with T. Hinz)  
 
 _Vocational Education and Underskilling: Lessons from European Skills Surveys_  
-(with C. Neuber-Pohl, G. Russo, G. Santangelo)
+(with C. Neuber-Pohl, G. Russo, G. Santangelo)  
 
 _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Death Effects_  
 (with H. Ursprung)  
