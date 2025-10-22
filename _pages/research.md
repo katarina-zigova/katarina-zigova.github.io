@@ -5,11 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-**My research interests** lie in the fields of economics of education and science, personnel and labor economics.
-I work empirically employing survey or observational data applying methods of causal inference, microeconometrics, spatial econometrics or meta-regression analysis.
+**My research interests** lie in the fields of economics of education and science, personnel and labor economics.  
+- I am interested in how labor and education policies shape individual skills and decisions of firms and workers to invest in training.  
+- I am also interested in the functioning of science. Thus, some of my research studies how journal policies and researchers’ characteristics affect quality of scientific reporting.  
+- I work empirically employing survey or observational data applying methods of causal inference, microeconometrics, spatial econometrics or meta-regression analysis.
 
-
-## Journal articles (selection):
+  
+## Journal articles:
 
 Doucouliagos C., K. Zigova (2025) Minimum Wages and Human Capital Investment: A Meta-Regression Analysis, _British Journal of Industrial Relations_.
 [link<span>&#129133;</span>](http://doi.org/10.1111/bjir.12881)
