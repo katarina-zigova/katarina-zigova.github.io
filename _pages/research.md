@@ -42,7 +42,7 @@ _The Delayed Acceptance of Female Research in Economics_
 [IZA Discussion Paper No. 17649](https://docs.iza.org/dp17649.pdf)  
 R&R at European Economic Review
 
-_Diversity Matters: Bias and Diversity in Industrial Relations Research_  
+_Female Representation Matters: Bias and Female Representation in Industrial Relations Research_  
 (with A. Doucouliagos, H. Doucouliagos, T. Stanley)  
 R&R at British Journal of Industrial Relations
 
