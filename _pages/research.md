@@ -26,7 +26,6 @@ Burridge P., J. P. Elhorst, K. Zigova (2016) Group Interaction in Research and t
 Elhorst J. P., K. Zigova (2014) Competition in Research Activity among Economic Departments: Evidence by Negative Spatial Autocorrelation. _Geographical Analysis_, 46(2), pp. 104-125.
 [link<span>&#129133;</span>](https://doi.org/10.1111/gean.12031)
 
-
 O’Neill B. C., M. Dalton, R. Fuchs, L. Jiang, S. Pachauri, K. Zigova (2010) Global Demographic Trends and Future Carbon Emissions. _PNAS_, 107(41), pp. 17521-17526.
 [link<span>&#129133;</span>](https://doi.org/10.1073/pnas.1004581107)
 
@@ -43,12 +42,14 @@ R&R at European Economic Review
 
 _Diversity Matters: Bias and Diversity in Industrial Relations Research_  
 (with A. Doucouliagos, H. Doucouliagos, T. Stanley)  
-
-_Replications and Research Data: Evidence among Economic Journals_  
-(with T. Hinz)  
+R&R at British Journal of Industrial Relations
 
 _Minimum Wages and the Structure of Training_  
 (with T. Zwick)
+[Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf) 
+
+_Replications and Research Data: Evidence among Economic Journals_  
+(with T. Hinz)  
 
 _Vocational Education and Underskilling: Lessons from European Skills Surveys_  
 (with C. Neuber-Pohl, G. Russo, G. Santangelo)
