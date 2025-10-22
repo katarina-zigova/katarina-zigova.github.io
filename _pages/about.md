@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-Hi, I am currently an assistant professor at the [Department of Business Administration](https://www.business.uzh.ch/en.html) of the University of Zurich.
+I am an assistant professor at the [Department of Business Administration](https://www.business.uzh.ch/en.html) of the University of Zurich.
 
-My focus is on personnel economics, vocational training and lifelong learning.
-I belong to the Swiss leading house [Research Center on the Economics of Education, Firm Behavior and Training Policies](https://www.educationeconomics.uzh.ch/en.html).
+I am a member of the Swiss Leading House [Research Center on the Economics of Education, Firm Behavior and Training Policies](https://www.educationeconomics.uzh.ch/en.html).
+
+My research focus is on personnel economics, vocational training and lifelong learning.
