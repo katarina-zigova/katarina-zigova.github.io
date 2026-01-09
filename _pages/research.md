@@ -48,6 +48,7 @@ Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Tran
 
 _Replications and Research Data: Evidence among Economic Journals_  
 (with T. Hinz)  
+[PDF](https://katarina-zigova.github.io/files/Research_data_and_replications_Jan2025.pdf)
 
 _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Death Effects_  
 (with H. Ursprung)  
