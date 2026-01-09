@@ -40,10 +40,10 @@ _Female Representation Matters: Bias and Female Representation in Industrial Rel
 (with A. Doucouliagos, H. Doucouliagos, T. Stanley)  
 R&R at British Journal of Industrial Relations
 
-_Minimum Wages and the Structure of Training_  
-(with T. Zwick)
-under review
-[Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf)
+_Minimum Wages and Provision of Training_  
+(with T. Zwick) 
+under review 
+[Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf) 
 Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Transfer](https://transfer.vet/mindestloehne-staerken-die-bereitschaft-der-firmen-in-weiterbildung-zu-investieren/)
 
 _Replications and Research Data: Evidence among Economic Journals_  
