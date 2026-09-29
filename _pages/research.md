@@ -44,9 +44,9 @@ _Minimum Wages and Provision of Training_
 Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Transfer](https://transfer.vet/mindestloehne-staerken-die-bereitschaft-der-firmen-in-weiterbildung-zu-investieren/)
 
 _Replications and Research Data: Evidence among Economic Journals_  
-(with T. Hinz)
-under review 
-[PDF, Aug. 2026](https://katarina-zigova.github.io/files/Research_data_and_replications_Aug2026.pdf)
+(with T. Hinz)  
+under review  
+[PDF, Aug. 2026](https://katarina-zigova.github.io/files/Hinz_Zigova_Aug2026.pdf)
 
 _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Death Effects_  
 (with H. Ursprung)  
