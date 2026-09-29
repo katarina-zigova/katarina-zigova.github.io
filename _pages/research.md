@@ -40,8 +40,8 @@ Luken R., F. Van Rompaey, K. Zigova, (2008) The Determinants of EST Adoption by 
 ## Working papers:
 _Minimum Wages and Provision of Training_  
 (with T. Zwick)  
-[Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf)  
-Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Transfer](https://transfer.vet/mindestloehne-staerken-die-bereitschaft-der-firmen-in-weiterbildung-zu-investieren/)
+[Economics of Education Working Paper No. 242](http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0242_lhwpaper.pdf),  
+Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Transfer](https://transfer.vet/mindestloehne-staerken-die-bereitschaft-der-firmen-in-weiterbildung-zu-investieren/), [SVEB-Newsletter](https://alice.ch/de/news/wie-die-einfuehrung-eines-mindestlohns-die-weiterbildung-foerdert), [Themen SGB|USS](https://www.sgb.ch/themen/bildung-jugend/detail/mindestloehne-staerken-weiterbildung-und-gefaehrden-die-berufsbildung-nicht-1)
 
 _Replications and Research Data: Evidence among Economic Journals_  
 (with T. Hinz)  
