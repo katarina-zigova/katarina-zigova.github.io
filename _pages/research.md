@@ -8,7 +8,7 @@ author_profile: true
 **My research interests** lie in the fields of economics of education and science, personnel and labor economics.  
 - I am interested in how labor and education policies shape individual skills and decisions of firms and workers to invest in training.  
 - I am also interested in the functioning of science. Thus, some of my research studies how journal policies and researchers’ characteristics affect quality of scientific reporting.  
-- I work empirically employing survey or observational data applying methods of causal inference, microeconometrics, spatial econometrics or meta-regression analysis.
+- I work empirically employing surveys, observational and administrative data applying methods of causal inference, microeconometrics, spatial econometrics or meta-regression analysis.
 
   
 ## Journal articles:
