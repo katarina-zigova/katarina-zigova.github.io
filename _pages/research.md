@@ -46,7 +46,7 @@ Coverage: [OEC Magazin](https://www.oec.uzh.ch/static/epaper_24-2025/#26), [Tran
 _Replications and Research Data: Evidence among Economic Journals_  
 (with T. Hinz)
 under review 
-[PDF](https://katarina-zigova.github.io/files/Research_data_and_replications_Aug2026.pdf)
+[PDF, Aug. 2026](https://katarina-zigova.github.io/files/Research_data_and_replications_Aug2026.pdf)
 
 _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Death Effects_  
 (with H. Ursprung)  
@@ -57,8 +57,8 @@ _The Ultimate Coasian Commitment: Estimating and Explaining Artist-Specific Deat
 _Skill Match and Skill Needs of Vocationally Educated Workers_  
 (with G. Russo and G. Santangelo)
 
-_Dual Reform and Early Labor Market Outcomes_ 
+_Dual Reform and Early Labor Market Outcomes_  
 (with D. Martinák and V. Novák)
 
-_Stumble over a Blunder: Editorial Policy and Research Reporting_ 
+_Stumble over a Blunder: Editorial Policy and Research Reporting_  
 (with V. Kadriu and B. Özgün))
