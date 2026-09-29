@@ -12,7 +12,7 @@ author_profile: true
 
   
 ## Journal articles:
-Doucouliagos A., H. Doucouliagos, T. D. Stanley, K. Zigova (2026) Female Representation Matters: Bias and Female Representation in Industrial Relations Research. _British Journal of Industrial Relations_, 64, pp. 617-679. [link<span>&#129133;</span>](https://doi.org/10.1016/j.euroecorev.2025.105204)
+Doucouliagos A., H. Doucouliagos, T. D. Stanley, K. Zigova (2026) Female Representation Matters: Bias and Female Representation in Industrial Relations Research. _British Journal of Industrial Relations_, 64, pp. 617-679. [link<span>&#129133;</span>](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70069)
 
 Bruns S., A. Doucouliagos, H. Doucouliagos, J. König, T. D. Stanley, K. Zigova (2026) The Delayed Acceptance of Female Research in Economics. _European Economic Review_, 182(105204). [link<span>&#129133;</span>](https://doi.org/10.1016/j.euroecorev.2025.105204)
 
